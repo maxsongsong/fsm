@@ -11,6 +11,7 @@
 				"${file}",
 				"${fileDirname}\\fsm_run.c",
 				"${fileDirname}\\list.c",
+				"${fileDirname}\\Logic.c",
 				"-o",
 				"${fileDirname}\\${fileBasenameNoExtension}.exe"
 			],
